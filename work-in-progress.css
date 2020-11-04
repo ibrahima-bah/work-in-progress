@@ -122,6 +122,7 @@ nav a:hover{
     border: 0;
 }
 section{
+	outline: none;
 	display: flex;
 	margin-bottom: 20px;
 }
